@@ -1,0 +1,10 @@
+Sources:
+https://habr.com/ru/post/155201/ 
+Words:
+октября
+31|
+0.101639|
+Alloc:
+1|
+0.5|
+
